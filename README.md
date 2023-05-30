@@ -29,7 +29,8 @@
 
 
 ## Velocity diagram
-###  Scale: 10 m/s = 100 mm (say) 
+###  Scale: 10 m/s = 100 mm (say) ![Screenshot 2023-05-30 113719](https://github.com/Preetha-Senthamilan/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/119390282/831589aa-a80d-438c-b3d0-edb02b27c0d7)
+
 ###  1. The fixed point C appears as a stationary point in the velocity diagram 
 ###  2. Draw the vector bc of length 100 mm, perpendicular to the crank CB from the configuration diagram 
 ###  3. At b, draw a projection line perpendicular to AB from the configuration diagram 
@@ -44,10 +45,12 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
+![Screenshot 2023-05-30 113719](https://github.com/Preetha-Senthamilan/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/119390282/a31b576d-7c82-414a-8adf-07f34e8df64e)
 
 
-### Name:
-### Register Number: 
+
+### Name: Preetha S
+### Register Number: 212222230110 
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
